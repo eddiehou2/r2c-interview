@@ -5,5 +5,5 @@ class Person:
 
 p1 = Person("John", 36)
 
-logging.debug(p1.name)
-logging.debug(p1.age)
+print(p1.name)
+print(p1.age)
